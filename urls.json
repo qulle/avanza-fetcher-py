@@ -1,0 +1,35 @@
+{
+    "Technology": [
+        {
+            "name": "SAS",
+            "url": "https://www.avanza.se/aktier/om-aktien.html/5535/sas"
+        }, {
+            "name": "Volvo",
+            "url": "https://www.avanza.se/aktier/om-aktien.html/5269/volvo-b"
+        }, {
+            "name": "ABB",
+            "url": "https://www.avanza.se/aktier/om-aktien.html/5447/abb-ltd"
+        }
+    ],
+    "Communication": [
+        {
+            "name": "Ericsson",
+            "url": "https://www.avanza.se/aktier/om-aktien.html/5240/ericsson-b"
+        }, {
+            "name": "Tele2",
+            "url": "https://www.avanza.se/aktier/om-aktien.html/5386/tele2-b"
+        }, {
+            "name": "Telia",
+            "url": "https://www.avanza.se/aktier/om-aktien.html/5479/telia-company"
+        }
+    ],
+    "Others": [
+        {
+            "name": "Axfood",
+            "url": "https://www.avanza.se/aktier/om-aktien.html/5465/axfood"
+        }, {
+            "name": "Swedbank",
+            "url": "https://www.avanza.se/aktier/om-aktien.html/5241/swedbank-a"
+        }
+    ]
+}
