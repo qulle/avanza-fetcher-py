@@ -6,6 +6,9 @@
 
 The script was run after hours, that's why 'buy' and 'sell' columns are empty.
 
+## Note
+[2022-04-15] - Avanza has updated their website thus the regex expressions now needs to be rewritten in order for the script to work.
+
 ## Runtime
 ```
 $ python avanza-fetcher.py urls.json
@@ -25,10 +28,6 @@ $ pip install requests
 ## Tested
 The code have been tested on:
 - Windows 10 machine running Python 3.9.0
-
-## Note
-If the code gives unexpected or no result, it's probably because the website has altered their HTML. \
-Rewriting the regex expressions should fix that.
 
 ## Author
 [Qulle](https://github.com/qulle/)
